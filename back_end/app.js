@@ -1,1 +1,0 @@
-console.log("Xin Chao Moi nguoi")
